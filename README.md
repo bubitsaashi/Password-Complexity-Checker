@@ -1,2 +1,13 @@
-# Prodigy-Cybersecurity-Task-3
-Task-03: Password Complexity Checker A Python tool to assess password strength based on length, uppercase/lowercase letters, digits, and special characters. Provides instant feedback on weak or strong passwords, promoting better cybersecurity practices for safe online usage.
+# Task-3
+
+## Description
+A Python tool that evaluates the strength of a password. It checks for length, uppercase/lowercase letters, digits, and special characters to provide instant feedback.
+
+## Features
+- Rates passwords as weak, moderate, or strong
+- Encourages better cybersecurity practices
+- Simple command-line interface
+
+## Run
+```bash
+python3 password_checker.py
