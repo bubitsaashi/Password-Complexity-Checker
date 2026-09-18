@@ -1,4 +1,4 @@
-# Task-3
+# Password Complexity Analyser
 
 ## Description
 A Python tool that evaluates the strength of a password. It checks for length, uppercase/lowercase letters, digits, and special characters to provide instant feedback.
